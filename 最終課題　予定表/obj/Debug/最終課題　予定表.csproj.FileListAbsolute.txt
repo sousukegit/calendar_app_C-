@@ -1,0 +1,11 @@
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\bin\Debug\最終課題　予定表.exe.config
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\bin\Debug\最終課題　予定表.exe
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\bin\Debug\最終課題　予定表.pdb
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題　予定表.csproj.AssemblyReference.cache
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題_予定表.Properties.Resources.resources
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題　予定表.csproj.GenerateResource.cache
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題　予定表.csproj.CoreCompileInputs.cache
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題　予定表.exe
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題　予定表.pdb
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題_予定表.Form2.resources
+C:\Users\mnbsou\source\repos\最終課題　予定表\最終課題　予定表\obj\Debug\最終課題_予定表.UserControl1.resources
